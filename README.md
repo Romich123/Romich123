@@ -1,8 +1,3 @@
-- Hi, I’m Roman
-- I'm from Russian Siberin
-- I’m interested in programming on C-like languages
-- I’m currently learning Machine Learning
-- My email is sepitour1998@gmail.com
 
 <!---
 Romich123/Romich123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
